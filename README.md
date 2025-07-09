@@ -47,7 +47,6 @@ Neo4j is used for storing and managing the relationships between buses, circuits
 ## Technology Stack
 - **Backend:** Spring Boot (Microservices)
 - **Database:** Neo4j (Graph Database)
-- **Containerization:** Docker
 - **API Communication:** REST, GraphQL
 
 ## Installation
@@ -55,7 +54,6 @@ Neo4j is used for storing and managing the relationships between buses, circuits
 - **Java JDK 17+**
 - **Maven** (for building the application)
 - **Neo4j Database** (for data storage)
-- **Docker** (for containerization)
 
 ### **Steps to Run**
 1. Clone the repository:
