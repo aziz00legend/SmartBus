@@ -78,8 +78,6 @@ Neo4j is used for storing and managing the relationships between buses, circuits
 - Create, manage, and retrieve bus circuits and stations.
 - Query Neo4j for optimized route suggestions.
 
-## Contributing
-Contributions are welcome! Fork the repo and submit a pull request.
 
 ## License
 MIT License. See `LICENSE` for details.
