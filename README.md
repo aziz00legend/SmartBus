@@ -31,7 +31,7 @@ The system follows a **microservices architecture**, where each service operates
 Neo4j is used for storing and managing the relationships between buses, circuits, and stations in a graph-based model.
 
 <div style="display: flex; align-items: flex-start;">
-  <img src="https://github.com/user-attachments/assets/93a1a276-20ef-4655-9c17-d233d631ae7a" alt="graph" style="width: 80px; margin-right: 20px;" />
+  <img src="https://github.com/user-attachments/assets/93a1a276-20ef-4655-9c17-d233d631ae7a" alt="graph" style="width: 80%; margin-right: 20px;" />
   <img src="https://github.com/user-attachments/assets/33982945-fc2b-43e2-a41c-57257fe4ba57" alt="image" style="flex-grow: 1; max-width: 100%;" />
 </div>
 
