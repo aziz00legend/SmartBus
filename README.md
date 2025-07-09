@@ -2,7 +2,7 @@
 
 ## Description
 The **Bus Station Management System** is a microservices-based application designed to efficiently manage bus circuits, stations, and related operations. The system provides features for retrieving circuit details, calculating travel costs, managing stations, and more.
-
+![49fc36a4-7982-4ae2-8228-fabed81ed596](https://github.com/user-attachments/assets/ba1295ea-17a9-47cb-a6d2-a40c3c6a729c)# Bus Station Management - Microservices Architecture
 The application evolved through multiple stages of development:
 1. **SOAP & XML** → Initial implementation.
 2. **REST (Jersey)** → Migration to RESTful architecture.
