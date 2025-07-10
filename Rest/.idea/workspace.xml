@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5e603a98-7fb7-4641-8dd5-87075e343f54" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Bus Graph/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bus Graph/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bus Graph/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bus Graph/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bus Graph/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bus Graph/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bus Graph/src/main/java/org/example/bus_graph/BusGraphApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bus Graph/src/main/java/org/example/bus_graph/Dto/BusDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bus Graph/src/main/java/org/example/bus_graph/Dto/CircuitDistanceDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bus Graph/src/main/java/org/example/bus_graph/Dto/CircuitDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bus Graph/src/main/java/org/example/bus_graph/Dto/StopDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bus Graph/src/main/java/org/example/bus_graph/Enum/BusType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bus Graph/src/main/java/org/example/bus_graph/node/Bus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bus Graph/src/main/java/org/example/bus_graph/node/Circuit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bus Graph/src/main/java/org/example/bus_graph/node/Holiday.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bus Graph/src/main/java/org/example/bus_graph/node/Station.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bus Graph/src/main/java/org/example/bus_graph/node/Stop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bus Graph/src/main/java/org/example/bus_graph/relationship/Route.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bus Graph/src/main/java/org/example/bus_graph/repository/BusRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bus Graph/src/main/java/org/example/bus_graph/repository/CircuitRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bus Graph/src/main/java/org/example/bus_graph/repository/HolidayRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bus Graph/src/main/java/org/example/bus_graph/repository/RouteRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bus Graph/src/main/java/org/example/bus_graph/repository/StationRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bus Graph/src/main/java/org/example/bus_graph/repository/StopRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bus Graph/src/main/java/org/example/bus_graph/service/BusService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bus Graph/src/main/java/org/example/bus_graph/service/CircuitService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bus Graph/src/main/java/org/example/bus_graph/service/HolidayService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bus Graph/src/main/java/org/example/bus_graph/service/RouteService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bus Graph/src/main/java/org/example/bus_graph/service/StationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bus Graph/src/main/java/org/example/bus_graph/service/StopService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bus Graph/src/main/java/org/example/bus_graph/service/TuniseWebServiceResource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bus Graph/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bus Graph/src/test/java/org/example/bus_graph/BusGraphApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Bus Graph" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2zeXWeWHVV8xsxZNTUiVYxEHHWG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.17011.79" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.17011.79" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5e603a98-7fb7-4641-8dd5-87075e343f54" name="Changes" comment="" />
+      <created>1752092548462</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1752092548462</updated>
+      <workItem from="1752092550025" duration="788000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

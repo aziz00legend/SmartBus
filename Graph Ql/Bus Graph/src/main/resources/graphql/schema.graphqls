@@ -1,0 +1,41 @@
+type Query {
+    getAllCircuitsBetweenStation(fromStation: String!, toStation: String!): [CircuitDto]
+    getClosestStations(
+        coordinateX: Float!
+        coordinateY: Float!
+        destinationStation: String!
+        arrivalTimeLimit: String
+        earlyDepartureTime: String
+        departureTimeLimit: String
+    ): [CircuitDistanceDto]
+    getTotalCostByDay(date: String!): Float
+    isCircuitActiveOnDate(circuitID: ID!, date: String!): Boolean
+}
+
+type CircuitDto {
+    code: String
+    weekend: Boolean
+    holidayWork: Boolean
+    mondayToFriday: Boolean
+    busDto: BusDto
+    stopDtos: [StopDto]
+    distance: Float
+    duration: Float
+    price: Float
+}
+
+type CircuitDistanceDto {
+    circuitDto: CircuitDto
+    distanceStation: Float
+}
+
+type BusDto {
+    capacite: Int
+    type: String
+}
+
+type StopDto {
+    departureTime: String
+    arrivalTime: String
+    stationName: String
+}
